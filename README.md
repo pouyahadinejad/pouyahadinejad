@@ -7,9 +7,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pouya-hadinejad&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/pouya-hadinejad?tab=followers">
-    <img src="https://img.shields.io/github/followers/pouya-hadinejad?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=pouyahadinejad&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/pouyahadinejad?tab=followers">
+    <img src="https://img.shields.io/github/followers/pouyahadinejad?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </div>
 
@@ -60,17 +60,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pouya-hadinejad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-hadinejad&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pouyahadinejad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyahadinejad&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pouya-hadinejad/pouya-hadinejad/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pouya-hadinejad/pouya-hadinejad/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/pouya-hadinejad/pouya-hadinejad/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pouyahadinejad/pouyahadinejad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pouyahadinejad/pouyahadinejad/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/pouyahadinejad/pouyahadinejad/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -79,13 +79,13 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/pouya-hadinejad" target="_blank">
+  <a href="https://linkedin.com/in/pouyahadinejad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="mailto:pouya.hadi1382@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/pouya_hadinejad" target="_blank">
+  <a href="https://twitter.com/pouyahadinejad" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge" />
   </a>
 </div>
